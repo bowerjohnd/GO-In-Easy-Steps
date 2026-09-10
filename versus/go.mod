@@ -1,0 +1,3 @@
+module example.com/versus
+
+go 1.27.1
